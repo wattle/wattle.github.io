@@ -216,7 +216,8 @@ h1 {
   display: table-cell;
   width: 150px;
   height: 60px;
-  padding: 5px; }
+  padding: 5px;
+  max-width: 150px; }
 
 .nav {
   display: table-cell;
