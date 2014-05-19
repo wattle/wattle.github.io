@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[]]></title>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2014-05-18T20:19:02-07:00</updated>
+  <id>/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://wattle.github.com/mrhyde/">mrhyde</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introducing Farm Comics]]></title>
+    <link href="/blog/2013/07/15/introducing-farm-comics/"/>
+    <updated>2013-07-15T11:04:33-07:00</updated>
+    <id>/blog/2013/07/15/introducing-farm-comics</id>
+    <content type="html"><![CDATA[<p>Farm Comics is a collaborative project that will be geared toward comic creation and the evolution of the medium in a digital environment. There are a couple of series that are in the works that will be explored in a classic comic strip and full page formats. All comics will be geared toward all ages from children to adults.</p>
+
+<p>We hope to publish on a bi-weekly basis at least one episode across all the series. The current comic that is kicking off this endeavor is <a href='/comics/asteriods-inc/'>Asteriods, Inc</a>, which involves Zinc and Stubon being sent into space to mine asteriods. The adventure will involve investigating the life of an asteriod miner through 1-3 page comedic episodes. There will be twists and turns that may arc into other series eventually.</p>
+
+<p>The comics will be written, created and illustrated from people of all ages, &#8220;Asteriods, Inc&#8221; is an example of this as it was a collaboration between my son and I.</p>
+
+<p>We look forward to hearing from you.</p>
+
+<p>Dan</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Astronaut Suit Design for Asteriods, Inc]]></title>
+    <link href="/blog/2013/07/15/astronaut-suit-design/"/>
+    <updated>2013-07-15T11:04:33-07:00</updated>
+    <id>/blog/2013/07/15/astronaut-suit-design</id>
+    <content type="html"><![CDATA[<p>Starting to work with a new astronaut suit design for the characters in <a href='/comics/asteriods-inc/'>Asteriods, Inc</a>.</p>
+
+<p><img alt='Astronaut Suit design' src='/blog/asteriods-inc-suit-design.png' /></p>
+
+<p>The idea is to account for the following:</p>
+
+<ul>
+<li>Life support / Oxygen</li>
+
+<li>Tools for fixing mining equipment</li>
+
+<li>Propulsion / Jet pack for traveling around an asteriod</li>
+
+<li>Display of suit status</li>
+</ul>
+
+<p>Since its a comic the realism doesn&#8217;t have to be crucial but its nice to work in some functional aspects of what is really needed. I&#8217;m working on the overall ship design incorporating some real science. I&#8217;ll post some sketches as they come along.</p>
+
+<p>Dan</p>]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,118 @@
+
+// Main sass style file
+// TODO Follow docco documentations
+// Add normalizer
+
+@import "bourbon"
+@import "colors"
+@import "fonts"
+@import "blog"
+@import "comic"
+@import "comic_overrides"
+@import "metadata"
+
+body
+  margin: 0
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+  font-size: 14px
+  line-height: 20px
+  color: #333333
+  background-color: white
+
+h1 
+  color: $h1-color
+  font-size: 14px
+  text-transform: uppercase
+  padding-left: 9px
+
+.section
+  text-transform: uppercase
+  color: $section-color
+
+.container
+  margin: 0 auto
+  position: absolute
+  left: 0
+  right: 0
+  top: 0
+  bottom: 0
+
+  #content
+    width: 80%
+    margin: 0 auto    
+    display: table
+
+#body, #sidebar
+  display: table-cell
+  vertical-align: top
+
+#sidebar
+  padding: 2px
+    top: 17px
+  width: 154px
+
+
+.share-buttons 
+  padding-bottom: 25px
+  width: 700px
+
+.header 
+  display: table
+  width: 90%
+  margin: 0 auto
+
+.sub-header 
+  display: table
+  height: 30px
+  margin: 0 auto
+  width: 80%
+
+.logo 
+  display: table-cell
+  width: 150px
+  padding: 5px
+
+.nav
+  display: table-cell
+  width: 100%
+  vertical-align: bottom
+  padding: 5px
+  text-align: right
+
+  a
+    text-decoration: none
+    color: darken($title-color, 20%)
+    font-size: 18px
+    font-variant: small-caps
+    
+    &:after 
+      content: ' | '
+      color: #000
+
+    &.last:after
+      content: ''
+
+    
+.title 
+  display: table-cell
+  width: 100%
+  vertical-align: bottom
+
+.title h1 
+  font-family: 'Bangers', sans-serif
+  color: $title-color
+  font-size: 36px
+  text-shadow: -2px 1px $title-border-color, 1px 2px $title-border-color, 2px 1px $title-border-color, 1px -2px $title-border-color
+
+
+  a 
+    text-decoration: none
+    color: $title-color
+
+ul.posts
+  padding: 10px
+  list-style: none
+   
+  li
+    padding:
+      bottom: 10px
